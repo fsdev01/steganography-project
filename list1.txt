@@ -1,0 +1,7 @@
+msg1.txt kittens-000.ppm k1.ppm
+msg2.txt kittens-001.ppm k2.ppm
+msg3.txt kittens-002.ppm k3.ppm
+
+
+
+
