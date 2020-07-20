@@ -14,6 +14,7 @@ INTRODUCTION
 ------------
 Steganography means “hidden writing”. The program’s aim is to encode a secret message and decode a secret message in an image file with a ppm file format. 
 We hide our messages in the least significant bit of each colour(8bits) – the rightmost bit.
+The message itself is encoded in ASCII and null-terminated (\0).
 
 
 IMPORTANT CHANGES 
