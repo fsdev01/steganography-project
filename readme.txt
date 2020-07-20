@@ -12,7 +12,7 @@ CONTENTS OF THIS FILE
 
 INTRODUCTION
 ------------
-Steganography means “hidden writing”. The program’s aim is to encode a secret message and decode a secret message in an image file with a ppm file format. This is hiding the message in the bits of the image file.
+Steganography means “hidden writing”. The program’s aim is to encode a secret message and decode a secret message in an image file with a ppm file format. This is hiding the message in the bits of the image file (i.e. changing the colour's intensity).
 
 
 IMPORTANT CHANGES 
